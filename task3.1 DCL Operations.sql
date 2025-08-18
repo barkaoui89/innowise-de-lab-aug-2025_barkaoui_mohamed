@@ -1,0 +1,1 @@
+CREATE ROLE hr_user WITH LOGIN PASSWORD 'password123';
