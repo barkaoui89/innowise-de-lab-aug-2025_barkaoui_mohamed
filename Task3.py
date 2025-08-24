@@ -1,0 +1,8 @@
+# for temperature in Celsius
+celsius = float("20.5")
+
+# Convert Celsius to Fahrenheit
+fahrenheit = celsius * 9 / 5 + 32
+
+# Display the result
+print(f"Temperature in Fahrenheit: {fahrenheit}")
